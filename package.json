@@ -18,8 +18,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/Nizwara/pushwa",
-  "author": "KYSTORE",
+  "base": "https://github.com/resahdevv/Push-Kontak",
+  "author": "RezaDevv",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
@@ -42,10 +42,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nizwara/pushwa.git"
+    "url": "https://github.com/resahdevv/Push-Kontak.git"
   },
   "bugs": {
-    "url": "https://github.com/Nizwara/pushwa/issues"
+    "url": "https://github.com/resahdevv/Push-Kontak/issues"
   },
-  "homepage": "https://github.com/Nizwara/pushwa#readme"
+  "homepage": "https://github.com/resahdevv/Push-Kontak#readme"
 }
