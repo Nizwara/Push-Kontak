@@ -64,8 +64,8 @@ $ npm start
 $ apt update && apt upgrade
 $ apt install git -y
 $ apt install nodejs -y
-$ git clone https://github.com/Nizwara/pushwa.git
-$ cd pushwa
+$ git clone https://github.com/Nizwara/Push-Kontak.git
+$ cd Push-Kontak
 $ npm install
 $ npm start
 ```
